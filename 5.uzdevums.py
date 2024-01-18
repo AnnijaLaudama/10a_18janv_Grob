@@ -1,1 +1,2 @@
-name=int(input("ievadi savu vārdu:"))
+name=input("ievadi savu vārdu:")
+print(name, ".txt")

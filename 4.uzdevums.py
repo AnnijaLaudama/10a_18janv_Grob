@@ -1,1 +1,1 @@
-mape=int(input("ievadi faila nosaukumu:"))
+file=input("ievadifaila nosaukumu:")
