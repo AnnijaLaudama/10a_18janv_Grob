@@ -1,2 +1,2 @@
-name=input("ievadi savu vārdu:")
-print(name, ".txt")
+namme=input("ievadi savu vārdu:")
+print(namme, ".txt")

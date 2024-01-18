@@ -9,3 +9,4 @@ Uzmanīgi lasīt uzdevumus un pildīt! Nepieciešamie faili ir jāveido pašiem,
 3.	Izveidot Python programmu, kas nolasītu un izdrukātu trešās teksta faila rindas saturu. (3 punkti)
 4.	Izveidot Python programmu, kur  lietotājs ievada gan faila nosaukumu un faila formātu (paplašinājumu), un atkarībā no faila paplašinājuma tiek nolasīts faila saturs.  Nolasītā informācija ir jāizdrukā terminālī. Ievērot iespejamās kļūdas! (8 punkti)
 5.	Izveidot Python programmu, kas ļauj lietotājam ievadīt savu vārdu terminālī. Ievadīto vārdu pēc tam ierakstīt teksta failā (piemēram, "lietotajs.txt"). Programmai jābūt spējīgai apstrādāt kļūdas, piemēram, faila nepieejamību vai rakstīšanas problēmas. Pēc ierakstīšanas izvadīt paziņojumu par veiksmīgu darbību vai kļūdu gadījumā attiecīgu kļūdas ziņojumu. (8 punkti)
+

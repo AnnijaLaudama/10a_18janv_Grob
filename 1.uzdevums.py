@@ -1,2 +1,2 @@
-flow=input("ievadi tekstu:")
-print(flow)
+flew=input("ievadi tekstu:")
+print(flew)
