@@ -1,2 +1,4 @@
-flew=input("ievadi tekstu:")
-print(flew)
+flew=input("ievadi uzdevuma ciparu:")
+no=1
+if no :
+    print("šis neder")
